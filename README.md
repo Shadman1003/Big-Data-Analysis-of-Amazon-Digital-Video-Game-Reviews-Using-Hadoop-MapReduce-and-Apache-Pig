@@ -1,0 +1,2 @@
+# Big-Data-Analysis-of-Amazon-Digital-Video-Game-Reviews-Using-Hadoop-MapReduce-and-Apache-Pig
+This repository contains a complete big data analytics pipeline built for processing the Amazon US Customer Reviews dataset. It utilizes Apache Hadoop (HDFS and custom Java MapReduce jobs) and Apache Pig script-based data flows executed within a WSL (Linux) environment to extract product insights, customer trends, and review statistics.
